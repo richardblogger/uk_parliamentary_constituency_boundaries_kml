@@ -1,0 +1,7 @@
+KML polygons describing the boundary of each UK parliamentary constituency.
+
+This data set does not include polygons for Northern Ireland constituencies.
+
+Scraped from http://mapit.mysociety.org/ which contains this notice, some of which presumably applies to this data set:
+
+This database contains Ordnance Survey data © Crown copyright and database right 2010; Royal Mail data © Royal Mail copyright and database right 2010 (Code-Point Open); Office for National Statistics data © Crown copyright and database right 2010 (NSPD Open) and © Crown copyright 2004 (Super Output Areas). Great Britain non-SOA data may be used under the terms of the OS OpenData licence (PDF). Northern Ireland data may be used under the terms of the NSPD Open licence (Word). Super Output Area data may presumably be used under OS OpenData and the Open Government Licence.
